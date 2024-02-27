@@ -1,0 +1,1 @@
+/Users/natmcnell/Library/CloudStorage/OneDrive-DLHHoldingsCorporation/GIT/NatLearns/Rust/hello-rust/target/debug/hello-rust: /Users/natmcnell/Library/CloudStorage/OneDrive-DLHHoldingsCorporation/GIT/NatLearns/Rust/hello-rust/src/main.rs
