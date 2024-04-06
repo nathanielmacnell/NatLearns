@@ -1,2 +1,2 @@
 # NatLearns
-Watch me write terrible code, in real time!
+Watch me write code in new languages!
